@@ -1,3 +1,4 @@
-class HelloWorld{
-System.out.println("Hello World!");
+class HelloWorld
+{
+  System.out.println("Hello World!");
 }
